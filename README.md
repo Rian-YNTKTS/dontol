@@ -1,8 +1,11 @@
 # ✭ DMBF CRACK
-#### Dibuat Dengan ❤️ Oleh Dapunta
+#### Dibuat Dengan ❤️ oleh Dapunta 
+ Dan Di Coded Oleh Rian Saputra
 ```
 Author:
 - Dapunta Khurayra X
+Coded:
+- Rian Saputra
 ```
 #### ⇨  Fitur Login
 ```
