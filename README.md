@@ -39,7 +39,7 @@ $ git clone https://github.com/Dapunta/dmbf
 ```
 #### ⇨  Menjalankan Script
 ```
-$ cd dmbf
+$ cd dontol
 $ git pull
 $ python dmbf.py
 ```
